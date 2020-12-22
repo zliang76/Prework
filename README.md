@@ -1,10 +1,10 @@
-# Prework - Tip Calculator
+# Prework - Tipsy
 
-Tip Calculator is a tip calculator application for iOS.
+Tipsy is a tip calculator application for iOS.
 
 Submitted by: Zifeng Liang
 
-Time spent: 1.5 hours spent in total
+Time spent: **8-9** hours spent in total
 
 ## User Stories
 
@@ -18,23 +18,24 @@ The following **optional** features are implemented:
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Implemented Light/Dark Mode
+- [x] Can Divide by the number of people
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgur.com/a/3nD4kvy">Video Walkthrough</a>
+<img src='http://g.recordit.co/QTzUq2s5Pm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I don't have any past experience using Xcode or Swift, so there was a learning curve for me. I also kept getting the "this class is not key value coding-compliant for the key" error. I wasn't able to debug my program so I had to start over. Everything else went smoothly.
+I don't have any past experience using Xcode or Swift, so it was a pretty steep learning curve for me. I spent ~4 hours getting familiar with Swift and how to use Xcode using the provided resources. Another roadblock was that I got a "this class is not key value coding-compliant for the key" error that I wasn't able to debug, so I had to start over at the middle of my project. Despite the challenge, I implemented two additional features to my application. 
 
 ## License
 
